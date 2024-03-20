@@ -1,0 +1,7 @@
+id=TCattdPixelVoLTEVoWIFI5GEnabler
+name=Pixel VoLTE, VoWIFI & 5G Enabler
+version=v1.0.0
+versionCode=100
+author=TCattd - actitud.xyz/esteban
+description=Enables VoLTE, VoWIFI & 5G for Google Pixel, in countries not officially supported by Google.
+updateJson=https://raw.githubusercontent.com/TCattd/Pixel-VoLTE-VoWIFI-5G-Enabler/main/update.json
